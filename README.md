@@ -15,5 +15,6 @@ Este proyecto es una aplicación de consola para la gestión de empleados y prod
 - Python 3.x
 - Módulos:
   - `sqlite3` (incluido en la librería estándar de Python)
+  - **IMPORTANTE**: Si ejecutamos nuestro "archivo.db" que se crea cuando inicializamos el programa en una BDD podremos observar todo lo que esta dentro tambien.
   - `json` (incluido en la librería estándar de Python)
   - `csv` (incluido en la librería estándar de Python)
